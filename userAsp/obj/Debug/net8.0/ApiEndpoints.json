@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "userAsp.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
