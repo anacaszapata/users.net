@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "29932519-5d16-46bd-bc8a-9084299939eb",
+		"name": "API RESTful .net",
+		"description": "API de gestión de usuarios",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33481572"
+	},
+	"item": [
+		{
+			"name": "GET /api/users",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://localhost:7103/api/users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7103",
+					"path": [
+						"api",
+						"users"
+					]
+				},
+				"description": "Obtención de una lista de usuarios creados."
+			},
+			"response": [
+				{
+					"name": "GET /api/users",
+					"originalRequest": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7103/api/users",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7103",
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Date",
+							"value": "Wed, 25 Sep 2024 05:04:11 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"id\": 1,\n        \"name\": \"ana\",\n        \"email\": \"john.doe@example.com\"\n    },\n    {\n        \"id\": 2,\n        \"name\": \"Jane Smith\",\n        \"email\": \"jane.smith@example.com\"\n    },\n    {\n        \"id\": 3,\n        \"name\": \"Alice Johnson\",\n        \"email\": \"alice.johnson@example.com\"\n    }\n]"
+				}
+			]
+		}
+	]
+}
