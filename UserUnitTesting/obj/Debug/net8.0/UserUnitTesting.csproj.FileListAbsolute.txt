@@ -2,7 +2,6 @@ C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\Cove
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\testhost.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\userAsp.deps.json
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\userAsp.runtimeconfig.json
-C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\appsettings.json
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\userAsp.exe
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\testhost.exe
@@ -158,3 +157,6 @@ C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\Cast
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\Moq.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\Sprache.dll
+C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\API RESTful .net.postman_collection.json
+C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\obj\Debug\net8.0\UserUnitTesting.sourcelink.json
+C:\Users\Ana Sofia\Desktop\userAsp\userAsp\UserUnitTesting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll

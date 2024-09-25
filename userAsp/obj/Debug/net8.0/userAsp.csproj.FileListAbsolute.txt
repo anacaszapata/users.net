@@ -145,3 +145,5 @@ C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\bin\Debug\net8.0\Moq.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\bin\Debug\net8.0\Sprache.dll
 C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\obj\Debug\net8.0\userAsp.sourcelink.json
+C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\bin\Debug\net8.0\API RESTful .net.postman_collection.json
+C:\Users\Ana Sofia\Desktop\userAsp\userAsp\userAsp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
