@@ -1,4 +1,4 @@
-﻿# Proyecto ASP.NET Core con Moq y Pruebas Unitarias
+﻿# Proyecto ASP.NET Core - Pruebas Unitarias
 
 Este proyecto es una API desarrollada en __ASP.NET Core__ que permite gestionar usuarios a través de una conexión a una base de datos __MySQL__. Se ha implementado una petición `GET` para obtener la lista de usuarios, y se realizaron pruebas unitarias usando xUnit.
 
