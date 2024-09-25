@@ -2,11 +2,6 @@
 
 Este proyecto es una API desarrollada en __ASP.NET Core__ que permite gestionar usuarios a través de una conexión a una base de datos __MySQL__. Se ha implementado una petición `GET` para obtener la lista de usuarios, y se realizaron pruebas unitarias usando xUnit.
 
-#### Notion
-Aquí encontrarás documentación sobre el modelo y los resultados de la API.
-https://bloom-addition-983.notion.site/API-xUnit-net-10c7e7bcf866809e8c2af54f9be9885c?pvs=4
-
-
 ---
 ## Tecnologías utilizadas
 
